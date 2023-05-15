@@ -1,0 +1,7 @@
+.header{
+    background-color: var(--main-color);
+}
+
+.header img{
+    max-width: 100%;
+}

@@ -1,0 +1,19 @@
+.org-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: var(--main-color);
+    font-size: var(--xl-font);
+    padding-bottom: 24px;
+    border-bottom: 4px solid var(--main-color);
+}
+
+.org-section img{
+    position: absolute;
+    right: 30%;
+    cursor: pointer;
+}

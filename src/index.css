@@ -1,0 +1,23 @@
+:root{
+  --xl-font: 40px;
+  --l-font: 28px;
+  --m-font: 16px;
+  --s-font: 14px;
+
+  --main-font-color: #212121;
+  --sec-font-color: #AFAFAF;
+  --main-color: #6278F7;
+  --sec-color: #95FFD4;
+}
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: var(--main-font-color);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+

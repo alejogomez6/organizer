@@ -1,0 +1,20 @@
+.lista-opciones{
+    margin: 24px 0;
+}
+
+.lista-opciones label{
+    font-size: var(--m-font);
+    font-weight: 600;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.lista-opciones select{
+    width: 100%;
+    padding: 30px 20px;
+    background-color: #fff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    border: none;
+    outline-color: var(--main-color);
+    font-size: var(--s-font);
+}
